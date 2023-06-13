@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vandan07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structure And Algorithm
-- 💞️ I’m looking for SDE  Oppurtunity
+- 👀 I’m looking for SDE  Oppurtunity
 - 📫 How to reach me https://www.linkedin.com/in/vandan-mahajan/
 
 <!---
