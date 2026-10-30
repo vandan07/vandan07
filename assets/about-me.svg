@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A0F"/>
+      <stop offset="50%" stop-color="#0E121B"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+
+    <linearGradient id="goldFlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E2B755"/>
+      <stop offset="50%" stop-color="#FFF2CE"/>
+      <stop offset="100%" stop-color="#E2B755"/>
+    </linearGradient>
+
+    <pattern id="aboutGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#FFFFFF" stroke-width="0.4" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 700; }
+  </style>
+
+  <rect width="1200" height="360" rx="14" fill="url(#aboutBg)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#aboutGrid)"/>
+  <rect x="10" y="10" width="1180" height="340" rx="12" fill="none" stroke="#1F283C" stroke-width="1.2"/>
+
+  <!-- Live Pulse Beacon Top Left -->
+  <circle cx="48" cy="48" r="8" fill="#D31427" opacity="0.3">
+    <animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="48" cy="48" r="4" fill="#D31427"/>
+
+  <!-- Section Header -->
+  <g transform="translate(70, 42)">
+    <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="3">CAPTAIN'S CREED // ABOUT ME</text>
+    <text x="0" y="32" fill="#FFFFFF" class="font-sans" font-size="28">"I don't just write code. I think first."</text>
+  </g>
+
+  <!-- Left: The Narrative & Mindset -->
+  <g transform="translate(48, 120)">
+    <rect width="660" height="190" rx="8" fill="#10141F" stroke="#222B3D" stroke-width="1"/>
+    <path d="M 0 0 L 0 190" stroke="#D31427" stroke-width="4"/>
+
+    <g transform="translate(24, 28)">
+      <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="2">THE CORE PHILOSOPHY</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="15">
+        Systems × Product × AI — Engineered with First-Principles
+      </text>
+
+      <text x="0" y="54" fill="#CBD5E1" class="font-mono" font-size="12" line-height="20">
+        <tspan x="0" dy="0">• My strongest skill is problem solving through logic and engineering judgment.</tspan>
+        <tspan x="0" dy="22">• In cricket, you don't swing wildly at every ball. You read the pitch, analyze</tspan>
+        <tspan x="0" dy="20">  the game situation, and select the precise shot.</tspan>
+        <tspan x="0" dy="24" fill="#E2B755">→ Good engineering isn't writing more code. It's making better decisions.</tspan>
+      </text>
+    </g>
+  </g>
+
+  <!-- Right: The 4 Invariant Mindset Questions -->
+  <g transform="translate(730, 120)">
+    <rect width="422" height="190" rx="8" fill="#120D15" stroke="#3D1824" stroke-width="1.2"/>
+    <path d="M 0 0 L 422 0" stroke="#E2B755" stroke-width="3"/>
+
+    <!-- Animated Light Runner on Card Border -->
+    <circle cx="410" cy="18" r="4" fill="#E2B755">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="translate(24, 28)">
+      <text x="0" y="0" fill="#FF4D61" class="font-mono" font-size="11" letter-spacing="2">HOW I APPROACH PROBLEMS</text>
+      
+      <text x="0" y="30" fill="#E2B755" class="font-mono" font-size="11">01. What is actually the root problem?</text>
+      <text x="0" y="58" fill="#FFFFFF" class="font-mono" font-size="11">02. What assumptions are being made?</text>
+      <text x="0" y="86" fill="#E2B755" class="font-mono" font-size="11">03. What is the simplest logical solution?</text>
+      <text x="0" y="114" fill="#FFFFFF" class="font-mono" font-size="11">04. How will it behave under real scale?</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="connBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A0F"/>
+      <stop offset="50%" stop-color="#140D14"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+
+    <pattern id="connDots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.5" fill="#FFFFFF" fill-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 700; }
+  </style>
+
+  <rect width="1200" height="240" rx="14" fill="url(#connBg)"/>
+  <rect width="1200" height="240" rx="14" fill="url(#connDots)"/>
+  <rect x="10" y="10" width="1180" height="220" rx="12" fill="none" stroke="#251622" stroke-width="1.2"/>
+
+  <!-- Content -->
+  <g transform="translate(60, 50)">
+    <rect width="180" height="24" rx="4" fill="#1C0D12" stroke="#D31427" stroke-width="1"/>
+    <text x="14" y="16" fill="#FF4D61" class="font-mono" font-size="10" letter-spacing="2">THE PAVILION // CONNECT</text>
+    
+    <text x="0" y="65" fill="#FFFFFF" class="font-sans" font-size="28">Let's Build Impactful Systems.</text>
+    <text x="0" y="94" fill="#A0AEC0" class="font-mono" font-size="12">
+      Open for conversations around backend engineering, distributed systems, and modern AI architectures.
+    </text>
+
+    <text x="0" y="130" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="1">
+      BENGALURU, INDIA · PLAY BOLD. THINK FIRST.
+    </text>
+  </g>
+
+  <!-- Right Decorative Emblem -->
+  <g transform="translate(1020, 50)">
+    <circle cx="70" cy="70" r="60" fill="#140E16" stroke="#D31427" stroke-width="1.5" stroke-dasharray="8 6"/>
+    <circle cx="70" cy="70" r="45" fill="#0C0E14" stroke="#E2B755" stroke-width="1"/>
+    <text x="70" y="78" text-anchor="middle" fill="#FFFFFF" class="font-sans" font-size="28" font-weight="900">RC</text>
+    <text x="70" y="94" text-anchor="middle" fill="#E2B755" class="font-mono" font-size="7" letter-spacing="2">BENGALURU</text>
+  </g>
+</svg>

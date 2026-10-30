@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="idBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A0E"/>
+      <stop offset="50%" stop-color="#0F1420"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+
+    <pattern id="idGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#FFFFFF" stroke-width="0.4" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 700; }
+  </style>
+
+  <rect width="1200" height="360" rx="14" fill="url(#idBg)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#idGrid)"/>
+  <rect x="10" y="10" width="1180" height="340" rx="12" fill="none" stroke="#1F283C" stroke-width="1.2"/>
+
+  <!-- Header -->
+  <g transform="translate(48, 42)">
+    <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="3">ENGINEERING IDENTITY // HOW I BUILD</text>
+    <text x="0" y="30" fill="#FFFFFF" class="font-sans" font-size="26">Core Disciplines &amp; Areas of Focus</text>
+  </g>
+
+  <!-- 3 Broad Pillars of Engineering Identity -->
+  <!-- 1. Systems & Backend -->
+  <g transform="translate(48, 115)">
+    <rect width="355" height="200" rx="8" fill="#101522" stroke="#222B3D" stroke-width="1"/>
+    <path d="M 0 0 L 355 0" stroke="#D31427" stroke-width="3"/>
+    
+    <g transform="translate(22, 26)">
+      <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="2">01 // SYSTEMS &amp; BACKEND</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="16">High-Performance Core</text>
+      
+      <g transform="translate(0, 46)" fill="#CBD5E1" class="font-mono" font-size="11" line-height="18">
+        <text x="0" y="0">• Backend Engineering &amp; Microservices</text>
+        <text x="0" y="20">• API Architecture &amp; Clean Contracts</text>
+        <text x="0" y="40">• Performance Profiling &amp; Latency Tuning</text>
+        <text x="0" y="60">• Concurrency &amp; Thread Safety</text>
+        <text x="0" y="80">• Zero Unnecessary Abstractions</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 2. Distributed Systems & Data -->
+  <g transform="translate(423, 115)">
+    <rect width="355" height="200" rx="8" fill="#101522" stroke="#222B3D" stroke-width="1"/>
+    <path d="M 0 0 L 355 0" stroke="#E2B755" stroke-width="3"/>
+    
+    <g transform="translate(22, 26)">
+      <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="2">02 // DISTRIBUTED ARCHITECTURE</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="16">Scale, State &amp; Streaming</text>
+      
+      <g transform="translate(0, 46)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0">• Event-Driven Systems (Kafka / RabbitMQ)</text>
+        <text x="0" y="20">• In-Memory Caching &amp; Locking (Redis)</text>
+        <text x="0" y="40">• Relational &amp; Document Data Modeling</text>
+        <text x="0" y="60">• Database Index Tuning &amp; Query Plans</text>
+        <text x="0" y="80">• Fault-Tolerant System Boundaries</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 3. AI & Product Engineering -->
+  <g transform="translate(798, 115)">
+    <rect width="354" height="200" rx="8" fill="#140D14" stroke="#421E2C" stroke-width="1.2"/>
+    <path d="M 0 0 L 354 0" stroke="#FF3B50" stroke-width="3"/>
+    
+    <g transform="translate(22, 26)">
+      <text x="0" y="0" fill="#FF4D61" class="font-mono" font-size="11" letter-spacing="2">03 // AI &amp; PRODUCT SYSTEMS</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="16">Modern Intelligence Edge</text>
+      
+      <g transform="translate(0, 46)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0">• Generative AI &amp; LLM Application Design</text>
+        <text x="0" y="20">• Retrieval-Augmented Generation (RAG)</text>
+        <text x="0" y="40">• Vector Embeddings &amp; ChromaDB</text>
+        <text x="0" y="60">• Local LLMs Orchestration (Ollama)</text>
+        <text x="0" y="80">• High-Utility Product Engineering</text>
+      </g>
+    </g>
+  </g>
+</svg>

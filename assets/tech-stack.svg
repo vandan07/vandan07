@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="stackBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A0F"/>
+      <stop offset="50%" stop-color="#0E131E"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+
+    <pattern id="stackDots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.5" fill="#FFFFFF" fill-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 700; }
+  </style>
+
+  <rect width="1200" height="480" rx="14" fill="url(#stackBg)"/>
+  <rect width="1200" height="480" rx="14" fill="url(#stackDots)"/>
+  <rect x="10" y="10" width="1180" height="460" rx="12" fill="none" stroke="#1F283C" stroke-width="1.2"/>
+
+  <!-- Header -->
+  <g transform="translate(48, 42)">
+    <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="3">TACTICAL ARSENAL // THE PLAYING XI</text>
+    <text x="0" y="30" fill="#FFFFFF" class="font-sans" font-size="26">Core Technologies &amp; Technical Capabilities</text>
+  </g>
+
+  <!-- Animated Seam Runner Under Header -->
+  <line x1="48" y1="92" x2="1152" y2="92" stroke="#1F283C" stroke-width="1"/>
+  <circle cx="150" cy="92" r="3" fill="#D31427">
+    <animate attributeName="cx" values="48;1152;48" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 5 CATEGORY CARDS -->
+  <!-- 1. BACKEND (Core Anchor) -->
+  <g transform="translate(48, 115)">
+    <rect width="210" height="320" rx="8" fill="#0F1420" stroke="#222D42" stroke-width="1"/>
+    <path d="M 0 0 L 210 0" stroke="#D31427" stroke-width="3"/>
+    
+    <g transform="translate(18, 24)">
+      <circle cx="6" cy="6" r="4" fill="#00E676">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="10" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">CORE BACKEND</text>
+      <text x="0" y="34" fill="#FFFFFF" class="font-sans" font-size="16">Java Ecosystem</text>
+      
+      <g transform="translate(0, 52)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#FFFFFF" font-weight="800">★ Java (17 / 21)</text>
+        <text x="0" y="24" fill="#FFFFFF" font-weight="800">★ Spring Boot</text>
+        <text x="0" y="48">Spring MVC</text>
+        <text x="0" y="72">JPA / Hibernate</text>
+        <text x="0" y="96">Python</text>
+        <text x="0" y="120">Node.js</text>
+      </g>
+
+      <rect x="0" y="210" width="174" height="26" rx="4" fill="#181D2A"/>
+      <text x="12" y="227" fill="#8C98AD" class="font-mono" font-size="9">PRIMARY MASTERY</text>
+    </g>
+  </g>
+
+  <!-- 2. DATABASES -->
+  <g transform="translate(278, 115)">
+    <rect width="210" height="320" rx="8" fill="#0F1420" stroke="#222D42" stroke-width="1"/>
+    <path d="M 0 0 L 210 0" stroke="#E2B755" stroke-width="3"/>
+    
+    <g transform="translate(18, 24)">
+      <circle cx="6" cy="6" r="4" fill="#E2B755"/>
+      <text x="18" y="10" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">PERSISTENCE</text>
+      <text x="0" y="34" fill="#FFFFFF" class="font-sans" font-size="16">Data Engines</text>
+      
+      <g transform="translate(0, 52)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#FFFFFF" font-weight="800">★ PostgreSQL</text>
+        <text x="0" y="24">MySQL</text>
+        <text x="0" y="48">MongoDB</text>
+        <text x="0" y="72">Database Schema Design</text>
+        <text x="0" y="96">Query Plan Tuning</text>
+        <text x="0" y="120">Indexing Strategies</text>
+      </g>
+
+      <rect x="0" y="210" width="174" height="26" rx="4" fill="#181D2A"/>
+      <text x="12" y="227" fill="#8C98AD" class="font-mono" font-size="9">ACID &amp; STATE TIER</text>
+    </g>
+  </g>
+
+  <!-- 3. DISTRIBUTED SYSTEMS & INFRA -->
+  <g transform="translate(508, 115)">
+    <rect width="210" height="320" rx="8" fill="#0F1420" stroke="#222D42" stroke-width="1"/>
+    <path d="M 0 0 L 210 0" stroke="#D31427" stroke-width="3"/>
+    
+    <g transform="translate(18, 24)">
+      <circle cx="6" cy="6" r="4" fill="#00E676">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+      </circle>
+      <text x="18" y="10" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">DISTRIBUTED</text>
+      <text x="0" y="34" fill="#FFFFFF" class="font-sans" font-size="16">Infra &amp; Streaming</text>
+      
+      <g transform="translate(0, 52)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#FFFFFF" font-weight="800">★ Redis (Cache/Lock)</text>
+        <text x="0" y="24" fill="#FFFFFF" font-weight="800">★ Apache Kafka</text>
+        <text x="0" y="48">RabbitMQ</text>
+        <text x="0" y="72">Docker Containers</text>
+        <text x="0" y="96">AWS Cloud</text>
+        <text x="0" y="120">Jenkins CI/CD</text>
+      </g>
+
+      <rect x="0" y="210" width="174" height="26" rx="4" fill="#181D2A"/>
+      <text x="12" y="227" fill="#8C98AD" class="font-mono" font-size="9">EVENT-DRIVEN ARCH</text>
+    </g>
+  </g>
+
+  <!-- 4. GENERATIVE AI & RAG -->
+  <g transform="translate(738, 115)">
+    <rect width="210" height="320" rx="8" fill="#140D14" stroke="#421E2C" stroke-width="1.2"/>
+    <path d="M 0 0 L 210 0" stroke="#FF3B50" stroke-width="3"/>
+    
+    <g transform="translate(18, 24)">
+      <circle cx="6" cy="6" r="4" fill="#FF4D61">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" begin="1s"/>
+      </circle>
+      <text x="18" y="10" fill="#FF4D61" class="font-mono" font-size="10" letter-spacing="1">INTELLIGENCE</text>
+      <text x="0" y="34" fill="#FFFFFF" class="font-sans" font-size="16">GenAI &amp; RAG</text>
+      
+      <g transform="translate(0, 52)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#FFFFFF" font-weight="800">★ LLMs Applications</text>
+        <text x="0" y="24" fill="#FFFFFF" font-weight="800">★ RAG Architecture</text>
+        <text x="0" y="48">Vector Embeddings</text>
+        <text x="0" y="72">ChromaDB Store</text>
+        <text x="0" y="96">Ollama Local LLMs</text>
+        <text x="0" y="120">Context Optimization</text>
+      </g>
+
+      <rect x="0" y="210" width="174" height="26" rx="4" fill="#201119"/>
+      <text x="12" y="227" fill="#FF4D61" class="font-mono" font-size="9">MODERN AI EDGE</text>
+    </g>
+  </g>
+
+  <!-- 5. FRONTEND & UI -->
+  <g transform="translate(968, 115)">
+    <rect width="184" height="320" rx="8" fill="#0F1420" stroke="#222D42" stroke-width="1"/>
+    <path d="M 0 0 L 184 0" stroke="#E2B755" stroke-width="3"/>
+    
+    <g transform="translate(18, 24)">
+      <circle cx="6" cy="6" r="4" fill="#E2B755"/>
+      <text x="18" y="10" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">INTERFACE</text>
+      <text x="0" y="34" fill="#FFFFFF" class="font-sans" font-size="16">Frontend</text>
+      
+      <g transform="translate(0, 52)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#FFFFFF" font-weight="800">★ React</text>
+        <text x="0" y="24">Vite</text>
+        <text x="0" y="48">JavaScript (ES6+)</text>
+        <text x="0" y="72">Operator Dashboards</text>
+        <text x="0" y="96">REST API Ingestion</text>
+      </g>
+
+      <rect x="0" y="210" width="148" height="26" rx="4" fill="#181D2A"/>
+      <text x="10" y="227" fill="#8C98AD" class="font-mono" font-size="9">USER INTERFACE</text>
+    </g>
+  </g>
+</svg>
