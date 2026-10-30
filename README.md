@@ -257,6 +257,6 @@ Before writing any code, I ask:
 
 **PLAY BOLD. THINK FIRST. LICENSED TO BUILD.** 🍸
 
-<sub>Ee Sala System Namde 🏆 · Software Engineer · Agent 007 · Jersey #18 · Bengaluru, India</sub>
+<sub>Ee Sala System Namde 🏆 · Software Engineer · Agent 007 · Jersey #17-18 · Bengaluru, India</sub>
 
 </div>
