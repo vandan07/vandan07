@@ -25,6 +25,13 @@
 
 <br/><br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🪪 PLAYER REGISTRATION CARD & LIVE DOSSIER                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="./assets/player-card.svg?v=2" alt="Player Registration Dossier" width="100%"/>
+
+<br/><br/>
+
 <img src="./assets/match-divider.svg" alt="Seam divider" width="100%"/>
 
 </div>
