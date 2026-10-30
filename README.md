@@ -21,7 +21,6 @@
 <a href="mailto:vandanmahajan@example.com"><img src="https://img.shields.io/badge/Email-E2B755?style=for-the-badge&logo=gmail&logoColor=0B0D13&labelColor=0B0D13" alt="Email"/></a>
 <a href="https://github.com/vandan07"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Agent-007_//_Double--O-000000?style=for-the-badge&logoColor=E2B755&labelColor=171B26" alt="Agent 007"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Jersey-%2318_//_Chase_Master-D31427?style=for-the-badge&logoColor=E2B755&labelColor=0B0D13" alt="Jersey 18"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cap_No-01_//_PROD-E2B755?style=for-the-badge&logoColor=0B0D13&labelColor=0B0D13" alt="Cap No"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Base-Bengaluru%2C_IN-0B0D13?style=for-the-badge&logo=googlemaps&logoColor=E2B755&labelColor=171B26" alt="Location"/></a>
 
@@ -55,7 +54,7 @@
 >
 > **Good engineering isn't about writing more code. It's about making better decisions.**"
 
-> ### 👑 The #18 Chase Master Philosophy
+> ### 👑 The Chase Master Philosophy
 > *"As long as there's a 1% chance, there is 100% belief."*
 >
 > When production is burning, the required run rate is 15 an over, and everyone else is panicking — **that's when you stay in the middle**. You don't slash recklessly. You break down the problem ball by ball, absorb the pressure, calculate the angles, and systematically chase down the target.
