@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="100%">
+  <defs>
+    <linearGradient id="csBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A0F"/>
+      <stop offset="50%" stop-color="#0E121C"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+
+    <linearGradient id="csRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D31427"/>
+      <stop offset="100%" stop-color="#FF384D"/>
+    </linearGradient>
+
+    <linearGradient id="csGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2B755"/>
+      <stop offset="100%" stop-color="#FCE59F"/>
+    </linearGradient>
+
+    <pattern id="csDots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.5" fill="#FFFFFF" fill-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 700; }
+  </style>
+
+  <!-- Frame Background -->
+  <rect width="1200" height="380" rx="14" fill="url(#csBg)"/>
+  <rect width="1200" height="380" rx="14" fill="url(#csDots)"/>
+  <rect x="10" y="10" width="1180" height="360" rx="12" fill="none" stroke="#1F283C" stroke-width="1.2"/>
+
+  <!-- Live Pulse Beacon -->
+  <circle cx="48" cy="46" r="6" fill="#E2B755">
+    <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Header -->
+  <g transform="translate(68, 40)">
+    <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="11" letter-spacing="3">THE COMMON SENSE FILTER // ENGINEERING JUDGMENT</text>
+    <text x="0" y="30" fill="#FFFFFF" class="font-sans" font-size="26">"Before Writing Code, Apply Common Sense."</text>
+  </g>
+
+  <!-- Animated Seam Runner -->
+  <line x1="48" y1="90" x2="1152" y2="90" stroke="#1F283C" stroke-width="1"/>
+  <circle cx="48" cy="90" r="3" fill="#D31427">
+    <animate attributeName="cx" values="48;1152;48" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 4 COMMON SENSE PILLARS -->
+  <!-- 1. The Reality Test -->
+  <g transform="translate(48, 115)">
+    <rect width="265" height="225" rx="8" fill="#101522" stroke="#222B3D" stroke-width="1"/>
+    <path d="M 0 0 L 265 0" stroke="#D31427" stroke-width="3"/>
+    
+    <g transform="translate(20, 24)">
+      <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">FILTER 01</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="15">The Reality Check</text>
+      
+      <g transform="translate(0, 48)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#E2B755">• Does this make practical</text>
+        <text x="0" y="18" fill="#E2B755">  sense?</text>
+        <text x="0" y="42">• Solving the real user</text>
+        <text x="0" y="60">  problem, not developer</text>
+        <text x="0" y="78">  ego or resume vanity.</text>
+        <text x="0" y="104" fill="#00E676">Rule: Practicality First</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 2. The Simplicity Test -->
+  <g transform="translate(325, 115)">
+    <rect width="265" height="225" rx="8" fill="#101522" stroke="#222B3D" stroke-width="1"/>
+    <path d="M 0 0 L 265 0" stroke="#E2B755" stroke-width="3"/>
+    
+    <g transform="translate(20, 24)">
+      <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">FILTER 02</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="15">Can We Simplify?</text>
+      
+      <g transform="translate(0, 48)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#E2B755">• If a solution feels</text>
+        <text x="0" y="18" fill="#E2B755">  over-complicated, it</text>
+        <text x="0" y="36" fill="#E2B755">  is probably wrong.</text>
+        <text x="0" y="60">• Remove moving parts.</text>
+        <text x="0" y="78">• Avoid premature tools.</text>
+        <text x="0" y="104" fill="#00E676">Rule: Strip Complexity</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 3. The Assumption Test -->
+  <g transform="translate(602, 115)">
+    <rect width="265" height="225" rx="8" fill="#101522" stroke="#222B3D" stroke-width="1"/>
+    <path d="M 0 0 L 265 0" stroke="#D31427" stroke-width="3"/>
+    
+    <g transform="translate(20, 24)">
+      <text x="0" y="0" fill="#E2B755" class="font-mono" font-size="10" letter-spacing="1">FILTER 03</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="15">Question Assumptions</text>
+      
+      <g transform="translate(0, 48)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#E2B755">• What unverified</text>
+        <text x="0" y="18" fill="#E2B755">  assumptions exist?</text>
+        <text x="0" y="42">• Is this actually a code</text>
+        <text x="0" y="60">  problem or a flawed</text>
+        <text x="0" y="78">  requirement?</text>
+        <text x="0" y="104" fill="#00E676">Rule: Validate Truths</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 4. The 03:00 AM Test -->
+  <g transform="translate(879, 115)">
+    <rect width="273" height="225" rx="8" fill="#140D14" stroke="#421E2C" stroke-width="1.2"/>
+    <path d="M 0 0 L 273 0" stroke="#FF3B50" stroke-width="3"/>
+    
+    <g transform="translate(20, 24)">
+      <text x="0" y="0" fill="#FF4D61" class="font-mono" font-size="10" letter-spacing="1">FILTER 04</text>
+      <text x="0" y="24" fill="#FFFFFF" class="font-sans" font-size="15">The 03:00 AM Test</text>
+      
+      <g transform="translate(0, 48)" fill="#CBD5E1" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#FF4D61">• If this system breaks</text>
+        <text x="0" y="18" fill="#FF4D61">  at 03:00 AM:</text>
+        <text x="0" y="42">• Can an on-call engineer</text>
+        <text x="0" y="60">  diagnose it in 5 mins?</text>
+        <text x="0" y="78">• How does it fail?</text>
+        <text x="0" y="104" fill="#00E676">Rule: Predictable Failure</text>
+      </g>
+    </g>
+  </g>
+</svg>

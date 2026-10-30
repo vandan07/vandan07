@@ -61,6 +61,21 @@ Before writing any code, I ask:
 
 **LOGIC × COMMON SENSE × PROBLEM SOLVING × ENGINEERING**
 
+<br/>
+
+<div align="center">
+  <img src="./assets/common-sense.svg?v=2" alt="The Common Sense Filter" width="100%"/>
+</div>
+
+<br/>
+
+### 💡 The Common Sense Rules I Build By:
+* **Practical Reality > Theoretical Perfection:** A solution must solve the actual business constraint, not satisfy developer vanity.
+* **If It Feels Too Complex, It's Wrong:** The right engineering decision usually feels obvious in retrospect. If you need 10 moving parts where 2 would do, strip it down.
+* **Question the Underlying Assumptions:** Don't write 500 lines of code to fix a flawed requirement that shouldn't exist in the first place.
+* **The 03:00 AM Test:** If a system fails in the middle of the night, can an engineer diagnose it within 5 minutes, or does it fail silently and catastrophically?
+* **Common Sense Over Cleverness:** Adding a microservice or an extra broker queue does not solve a missing database index. Understand the fundamentals first.
+
 ---
 
 <div align="center">
