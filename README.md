@@ -19,7 +19,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <a href="https://linkedin.com/in/vandan-mahajan"><img src="https://img.shields.io/badge/LinkedIn-D31427?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0B0D13" alt="LinkedIn"/></a>
 <a href="mailto:vandanmahajan@example.com"><img src="https://img.shields.io/badge/Email-E2B755?style=for-the-badge&logo=gmail&logoColor=0B0D13&labelColor=0B0D13" alt="Email"/></a>
-<a href="https://github.com/vandan-mahajan"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
+<a href="https://github.com/vandan07"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Agent-007_//_Double--O-000000?style=for-the-badge&logoColor=E2B755&labelColor=171B26" alt="Agent 007"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Jersey-%2318_//_Chase_Master-D31427?style=for-the-badge&logoColor=E2B755&labelColor=0B0D13" alt="Jersey 18"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cap_No-01_//_PROD-E2B755?style=for-the-badge&logoColor=0B0D13&labelColor=0B0D13" alt="Cap No"/></a>
@@ -174,25 +174,25 @@ Before writing any code, I ask:
       <td><b>⚡ Distributed Ledger Engine</b></td>
       <td>High-throughput distributed event streaming and transaction ledger with partitioned ordering and write-back caching.</td>
       <td><code>Java 21</code> <code>Spring Boot</code> <code>Kafka</code> <code>Redis</code></td>
-      <td align="center"><a href="https://github.com/vandan-mahajan"><b>Code ↗</b></a></td>
+      <td align="center"><a href="https://github.com/vandan07"><b>Code ↗</b></a></td>
     </tr>
     <tr>
       <td><b>🧠 Hybrid RAG Knowledge Pipeline</b></td>
       <td>Context-aware document intelligence system combining dense vector search and sparse keyword retrieval with local LLM streaming.</td>
       <td><code>Python</code> <code>ChromaDB</code> <code>Ollama</code> <code>FastAPI</code></td>
-      <td align="center"><a href="https://github.com/vandan-mahajan"><b>Code ↗</b></a></td>
+      <td align="center"><a href="https://github.com/vandan07"><b>Code ↗</b></a></td>
     </tr>
     <tr>
       <td><b>🛡️ Distributed Cache Gateway</b></td>
       <td>Resilient caching gateway engineered with mutual exclusion locks and early probabilistic expiration to eliminate cache stampedes.</td>
       <td><code>Java</code> <code>Spring Boot</code> <code>Redis</code> <code>MySQL</code></td>
-      <td align="center"><a href="https://github.com/vandan-mahajan"><b>Code ↗</b></a></td>
+      <td align="center"><a href="https://github.com/vandan07"><b>Code ↗</b></a></td>
     </tr>
     <tr>
       <td><b>📦 Transactional Outbox Service</b></td>
       <td>Guaranteed at-least-once message delivery pipeline syncing database state to event brokers without dual-write anomalies.</td>
       <td><code>PostgreSQL</code> <code>Kafka</code> <code>Docker</code> <code>Java</code></td>
-      <td align="center"><a href="https://github.com/vandan-mahajan"><b>Code ↗</b></a></td>
+      <td align="center"><a href="https://github.com/vandan07"><b>Code ↗</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -200,7 +200,7 @@ Before writing any code, I ask:
 <br/>
 
 <div align="center">
-  <a href="https://github.com/vandan-mahajan?tab=repositories"><b>→ See all repositories on GitHub</b></a>
+  <a href="https://github.com/vandan07?tab=repositories"><b>→ See all repositories on GitHub</b></a>
 </div>
 
 ---
@@ -225,12 +225,12 @@ Before writing any code, I ask:
 
 ### 📈 GitHub Match Stats
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=vandan-mahajan&show_icons=true&title_color=E2B755&icon_color=D31427&text_color=CBD5E1&bg_color=0B0D13&border_color=D31427&hide_border=false" alt="GitHub Stats" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandan-mahajan&layout=compact&title_color=E2B755&text_color=CBD5E1&bg_color=0B0D13&border_color=E2B755&hide_border=false" alt="Top Languages" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=vandan07&show_icons=true&title_color=E2B755&icon_color=D31427&text_color=CBD5E1&bg_color=0B0D13&border_color=D31427&hide_border=false" alt="GitHub Stats" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandan07&layout=compact&title_color=E2B755&text_color=CBD5E1&bg_color=0B0D13&border_color=E2B755&hide_border=false" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vandan-mahajan&color=D31427&style=for-the-badge&label=MATCH+VISITORS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vandan07&color=D31427&style=for-the-badge&label=MATCH+VISITORS" alt="Profile Views"/>
 
 </div>
 
@@ -247,7 +247,7 @@ Before writing any code, I ask:
 
 <a href="https://linkedin.com/in/vandan-mahajan"><img src="https://img.shields.io/badge/LinkedIn-D31427?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0B0D13" alt="LinkedIn"/></a>
 <a href="mailto:vandanmahajan@example.com"><img src="https://img.shields.io/badge/Email-E2B755?style=for-the-badge&logo=gmail&logoColor=0B0D13&labelColor=0B0D13" alt="Email"/></a>
-<a href="https://github.com/vandan-mahajan"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
+<a href="https://github.com/vandan07"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
 
 <br/><br/>
 
