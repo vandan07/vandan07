@@ -8,9 +8,9 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⚡ LIVE DYNAMIC TYPING ANIMATION (RCB GOLD & RED)                   -->
+<!-- ⚡ LIVE DYNAMIC TYPING ANIMATION (007 GOLD & RED)                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E2B755&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+Systems+%C3%97+Product+%C3%97+AI;I+don't+just+write+code.+I+think+first.;Logic+%C3%97+Common+Sense+%C3%97+Engineering+Judgment;Read+the+pitch+%E2%86%92+Understand+the+game+%E2%86%92+Execute+bold;Building+scalable+distributed+systems+%F0%9F%8F%8F" alt="Live Typing Telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E2B755&center=true&vCenter=true&width=660&lines=Software+Engineer+%C2%B7+Systems+%C3%97+Product+%C3%97+AI;The+name+is+Mahajan.+Vandan+Mahajan.+%F0%9F%95%B6%EF%B8%8F;Agent+007+%C2%B7+Licensed+to+Build;I+don't+just+write+code.+I+think+first.;Logic+%C3%97+Common+Sense+%C3%97+Engineering+Judgment;Play+Bold.+Execute+with+Deadly+Precision.+%F0%9F%8F%8F" alt="Live Typing Telemetry" />
 
 <br/><br/>
 
@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/vandan-mahajan"><img src="https://img.shields.io/badge/LinkedIn-D31427?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0B0D13" alt="LinkedIn"/></a>
 <a href="mailto:vandanmahajan@example.com"><img src="https://img.shields.io/badge/Email-E2B755?style=for-the-badge&logo=gmail&logoColor=0B0D13&labelColor=0B0D13" alt="Email"/></a>
 <a href="https://github.com/vandan-mahajan"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Agent-007_//_Double--O-000000?style=for-the-badge&logoColor=E2B755&labelColor=171B26" alt="Agent 007"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cap_No-01_//_PROD-E2B755?style=for-the-badge&logoColor=0B0D13&labelColor=0B0D13" alt="Cap No"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Base-Bengaluru%2C_IN-0B0D13?style=for-the-badge&logo=googlemaps&logoColor=E2B755&labelColor=171B26" alt="Location"/></a>
 
@@ -90,7 +91,7 @@ Before writing any code, I ask:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🛡️ SECTION 2: THE PLAYING XI // TECH STACK                         -->
+<!-- 🛡️ SECTION 2: Q-BRANCH ARSENAL // THE PLAYING XI                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="./assets/tech-stack.svg?v=2" alt="Tech Stack and Arsenal" width="100%"/>
@@ -98,7 +99,7 @@ Before writing any code, I ask:
 
 <br/>
 
-### 🛠️ Technical Stack Breakdown
+### 🛠️ Q-Branch Technical Arsenal (The Playing XI)
 
 | Discipline | Core Technologies | Applied Experience |
 | :--- | :--- | :--- |
@@ -146,10 +147,10 @@ Before writing any code, I ask:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏏 SECTION 4: MATCH HIGHLIGHTS // FEATURED PROJECTS                -->
+<!-- 🍸 SECTION 4: CLASSIFIED MISSIONS // FEATURED PROJECTS             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🏏 Match Highlights // Featured Projects
+## 🍸 Classified Missions // Match Highlights
 
 <table>
   <thead>
@@ -246,8 +247,8 @@ Before writing any code, I ask:
 
 <br/>
 
-**PLAY BOLD. THINK FIRST.** 🏏
+**PLAY BOLD. THINK FIRST. LICENSED TO BUILD.** 🍸
 
-<sub>Software Engineer · Systems × Product × AI · Bengaluru, India</sub>
+<sub>Software Engineer · Agent 007 // Systems × Product × AI · Bengaluru, India</sub>
 
 </div>

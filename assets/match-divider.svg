@@ -2,16 +2,29 @@
   <defs>
     <linearGradient id="divRed" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#D31427" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#D31427" stop-opacity="0.8"/>
+      <stop offset="25%" stop-color="#D31427" stop-opacity="0.8"/>
       <stop offset="50%" stop-color="#E2B755"/>
-      <stop offset="70%" stop-color="#D31427" stop-opacity="0.8"/>
+      <stop offset="75%" stop-color="#D31427" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#D31427" stop-opacity="0"/>
     </linearGradient>
+
+    <filter id="dotGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
   </defs>
   
-  <line x1="100" y1="18" x2="1100" y2="18" stroke="url(#divRed)" stroke-width="1.2"/>
+  <!-- Base Seam Laser Line -->
+  <line x1="80" y1="18" x2="1120" y2="18" stroke="url(#divRed)" stroke-width="1.2"/>
   
-  <!-- Seam stitch marks along center -->
+  <!-- 007 Sweeping Red Laser Crosshair -->
+  <g filter="url(#dotGlow)">
+    <circle cx="600" cy="18" r="4" fill="#FF384D">
+      <animate attributeName="cx" values="120;1080;120" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Cricket Seam Hash Marks with Gold Accent -->
   <g stroke="#E2B755" stroke-width="1.2" opacity="0.6">
     <line x1="560" y1="13" x2="566" y2="23"/>
     <line x1="575" y1="13" x2="581" y2="23"/>
@@ -21,7 +34,13 @@
     <line x1="635" y1="23" x2="641" y2="13"/>
   </g>
   
-  <!-- Center Diamond Crest -->
-  <polygon points="600,10 608,18 600,26 592,18" fill="#D31427" stroke="#E2B755" stroke-width="1.5"/>
+  <!-- Center 007 Crosshair Target Emblem -->
+  <g transform="translate(600, 18)">
+    <circle cx="0" cy="0" r="10" fill="#0C0E14" stroke="#E2B755" stroke-width="1.2"/>
+    <circle cx="0" cy="0" r="3" fill="#D31427"/>
+    <line x1="-14" y1="0" x2="-8" y2="0" stroke="#FF4D61" stroke-width="1.2"/>
+    <line x1="8" y1="0" x2="14" y2="0" stroke="#FF4D61" stroke-width="1.2"/>
+    <line x1="0" y1="-14" x2="0" y2="-8" stroke="#FF4D61" stroke-width="1.2"/>
+    <line x1="0" y1="8" x2="0" y2="14" stroke="#FF4D61" stroke-width="1.2"/>
+  </g>
 </svg>
-
