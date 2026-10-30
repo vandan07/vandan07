@@ -10,7 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- ⚡ LIVE DYNAMIC TYPING ANIMATION (007 GOLD & RED)                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E2B755&center=true&vCenter=true&width=660&lines=Software+Engineer+%C2%B7+Systems+%C3%97+Product+%C3%97+AI;The+name+is+Mahajan.+Vandan+Mahajan.+%F0%9F%95%B6%EF%B8%8F;Agent+007+%C2%B7+Licensed+to+Build;I+don't+just+write+code.+I+think+first.;Logic+%C3%97+Common+Sense+%C3%97+Engineering+Judgment;Play+Bold.+Execute+with+Deadly+Precision.+%F0%9F%8F%8F" alt="Live Typing Telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E2B755&center=true&vCenter=true&width=700&lines=Software+Engineer+%C2%B7+Systems+%C3%97+Product+%C3%97+AI;The+name+is+Mahajan.+Vandan+Mahajan.+%F0%9F%95%B6%EF%B8%8F;Agent+007+%C2%B7+Licensed+to+Build;1%25+Chance.+100%25+Belief.+%F0%9F%8F%8F;The+Chase+Master+Mindset+%C2%B7+Ice+in+the+head%2C+fire+in+the+heart;Logic+%C3%97+Common+Sense+%C3%97+Engineering+Judgment;Play+Bold.+Execute+with+Deadly+Precision." alt="Live Typing Telemetry" />
 
 <br/><br/>
 
@@ -21,6 +21,7 @@
 <a href="mailto:vandanmahajan@example.com"><img src="https://img.shields.io/badge/Email-E2B755?style=for-the-badge&logo=gmail&logoColor=0B0D13&labelColor=0B0D13" alt="Email"/></a>
 <a href="https://github.com/vandan-mahajan"><img src="https://img.shields.io/badge/GitHub-D31427?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B0D13" alt="GitHub"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Agent-007_//_Double--O-000000?style=for-the-badge&logoColor=E2B755&labelColor=171B26" alt="Agent 007"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Jersey-%2318_//_Chase_Master-D31427?style=for-the-badge&logoColor=E2B755&labelColor=0B0D13" alt="Jersey 18"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cap_No-01_//_PROD-E2B755?style=for-the-badge&logoColor=0B0D13&labelColor=0B0D13" alt="Cap No"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Base-Bengaluru%2C_IN-0B0D13?style=for-the-badge&logo=googlemaps&logoColor=E2B755&labelColor=171B26" alt="Location"/></a>
 
@@ -53,6 +54,13 @@
 > *"In cricket, you don't step out to swing blindly at every delivery. You read the pitch, analyze the situation, and select the right shot.*
 >
 > **Good engineering isn't about writing more code. It's about making better decisions.**"
+
+> ### 👑 The #18 Chase Master Philosophy
+> *"As long as there's a 1% chance, there is 100% belief."*
+>
+> When production is burning, the required run rate is 15 an over, and everyone else is panicking — **that's when you stay in the middle**. You don't slash recklessly. You break down the problem ball by ball, absorb the pressure, calculate the angles, and systematically chase down the target.
+>
+> **Fire in the belly. Ice in the head. Uncompromising loyalty to the process.**
 
 I am **Vandan Mahajan**, a Software Engineer based in **Bengaluru**, focused on **Systems × Product × AI**.
 
@@ -249,6 +257,6 @@ Before writing any code, I ask:
 
 **PLAY BOLD. THINK FIRST. LICENSED TO BUILD.** 🍸
 
-<sub>Software Engineer · Agent 007 // Systems × Product × AI · Bengaluru, India</sub>
+<sub>Ee Sala System Namde 🏆 · Software Engineer · Agent 007 · Jersey #18 · Bengaluru, India</sub>
 
 </div>

@@ -101,10 +101,10 @@
       <text x="0" y="14" text-anchor="middle" fill="url(#goldSheen)" class="id-head" font-size="42" letter-spacing="2">VM</text>
     </g>
 
-    <!-- 007 Agent Cap Badge with Pulsing Live Green LED -->
+    <!-- 007 Agent Cap Badge with Pulsing Live Green LED & VK18 Easter Egg -->
     <g transform="translate(24, 270)">
       <rect width="232" height="36" rx="6" fill="#141926" stroke="#253046" stroke-width="1"/>
-      <text x="14" y="23" fill="#E2B755" class="id-mono" font-size="11" letter-spacing="1.5">AGENT 007 // CAP: #01</text>
+      <text x="12" y="23" fill="#E2B755" class="id-mono" font-size="10.5" letter-spacing="1.2">AGENT 007 // #18 // CAP #01</text>
       
       <!-- Live Animated Beacon -->
       <circle cx="212" cy="18" r="4" fill="#00E676">
@@ -208,9 +208,9 @@
         <animate attributeName="y2" values="18;52;18" dur="2.4s" repeatCount="indefinite"/>
       </line>
 
-      <!-- 007 Signature Hash & Credentials -->
-      <text x="160" y="32" fill="#718096" class="id-mono" font-size="10">LICENSE: DOUBLE-O ENGINEER // SHA-256: 007-8A7F4B92C1D0...VERIFIED</text>
-      <text x="160" y="48" fill="#CBD5E1" class="id-mono" font-size="11">ISSUED BY: MI6 / Q-BRANCH ENGINEERING NODE · BENGALURU</text>
+      <!-- 007 Signature Hash & Credentials with VK18 Easter Egg -->
+      <text x="160" y="32" fill="#718096" class="id-mono" font-size="10">MANTRA: 1% CHANCE // 100% BELIEF · SHA-256: VK18-007-8A7F4B92...VERIFIED</text>
+      <text x="160" y="48" fill="#CBD5E1" class="id-mono" font-size="11">ISSUED BY: MI6 / Q-BRANCH · CHINNASWAMY PAVILION NODE · BENGALURU</text>
       
       <!-- Right Double-O Stamp with Glowing Border Pulse -->
       <g transform="translate(635, 16)">
